@@ -1,0 +1,42 @@
+Python
+Java
+C++
+JavaScript
+SQL
+MongoDB
+PostgreSQL
+Machine Learning
+Deep Learning
+TensorFlow
+PyTorch
+Scikit-learn
+Pandas
+NumPy
+AWS
+Azure
+Docker
+Kubernetes
+Git
+GitHub
+Streamlit
+Power BI
+Tableau
+Generative AI
+Agentic AI
+Robotics
+MySQL
+Keras
+GenAI
+HTML
+CSS
+Web Development
+DevOps
+MLOps
+LLM
+LLMOps
+Math
+Physics
+Chemistry
+Biology
+History , Geography, Political Science, SpringBot
+FastAPI

@@ -59,6 +59,7 @@ AI-Resume-Ranker/
 ├── skills.txt
 ├── resume_ranker.ipynb
 ├── Requirements.txt
+├── dummy_resume.pdf
 ├── README.md
 ├── User_Interface1.png
 └── User_Interface2.png

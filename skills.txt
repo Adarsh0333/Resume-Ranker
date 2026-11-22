@@ -1,42 +1,104 @@
 Python
 Java
+C
 C++
 JavaScript
+TypeScript
+
+HTML
+CSS
+React
+Node.js
+Express.js
+Flask
+Django
+Spring Boot
+REST API
+
 SQL
-MongoDB
+MySQL
 PostgreSQL
+MongoDB
+SQLite
+
+Data Structures
+Algorithms
+Object Oriented Programming
+DBMS
+Operating Systems
+Computer Networks
+
 Machine Learning
 Deep Learning
+Neural Networks
+CNN
+RNN
+Computer Vision
+NLP
+Natural Language Processing
+
 TensorFlow
 PyTorch
 Scikit-learn
+XGBoost
+
 Pandas
 NumPy
-AWS
-Azure
-Docker
-Kubernetes
-Git
-GitHub
-Streamlit
-Power BI
-Tableau
+Matplotlib
+Seaborn
+Plotly
+
+Data Analysis
+Data Visualization
+Feature Engineering
+Model Deployment
+
 Generative AI
 Agentic AI
-Robotics
-MySQL
-Keras
-GenAI
-HTML
-CSS
-Web Development
-DevOps
-MLOps
 LLM
-LLMOps
-Math
-Physics
-Chemistry
-Biology
-History , Geography, Political Science, SpringBot
+Large Language Models
+Prompt Engineering
+RAG
+LangChain
+LlamaIndex
+
+AWS
+Azure
+GCP
+
+Docker
+Kubernetes
+Jenkins
+Linux
+
+Git
+GitHub
+VS Code
+Jupyter Notebook
+Google Colab
+
+Streamlit
 FastAPI
+
+Power BI
+Tableau
+Excel
+
+Political Science
+Marketing Analytics
+Statistics
+Social Science
+Social Studies
+Math
+Chemistry
+Physics
+Civics
+Geography
+History
+Enviromental Studies
+
+
+
+ServiceNow
+CSA
+ATF

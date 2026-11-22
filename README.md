@@ -76,6 +76,10 @@ AI-Resume-Ranker/
 ### Resume Analysis Report
 ![Resume Analysis Report](User_Interface2.png)
 
+![Resume Analysis Report](User_Interface3.png)
+
+![Resume Analysis Report](User_Interface4.png)
+
 ## ✅ Example Output
 
 ```text
